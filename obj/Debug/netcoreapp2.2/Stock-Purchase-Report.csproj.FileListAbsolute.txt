@@ -1,0 +1,11 @@
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/bin/Debug/netcoreapp2.2/Stock-Purchase-Report.deps.json
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/bin/Debug/netcoreapp2.2/Stock-Purchase-Report.runtimeconfig.json
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/bin/Debug/netcoreapp2.2/Stock-Purchase-Report.runtimeconfig.dev.json
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/bin/Debug/netcoreapp2.2/Stock-Purchase-Report.dll
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/bin/Debug/netcoreapp2.2/Stock-Purchase-Report.pdb
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/obj/Debug/netcoreapp2.2/Stock-Purchase-Report.csprojAssemblyReference.cache
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/obj/Debug/netcoreapp2.2/Stock-Purchase-Report.csproj.CoreCompileInputs.cache
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/obj/Debug/netcoreapp2.2/Stock-Purchase-Report.AssemblyInfoInputs.cache
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/obj/Debug/netcoreapp2.2/Stock-Purchase-Report.AssemblyInfo.cs
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/obj/Debug/netcoreapp2.2/Stock-Purchase-Report.dll
+/Users/jason/Workspace/csharp/exercises/Stock-Purchase-Report/obj/Debug/netcoreapp2.2/Stock-Purchase-Report.pdb
